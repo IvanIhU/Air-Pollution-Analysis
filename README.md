@@ -49,7 +49,7 @@ The dataset contains air quality measurements with the following features:
 - Implement targeted interventions in cities with extreme AQI values  
 - Monitor multiple pollutants together due to their correlation  
 - Develop early warning systems in regions with rising pollution levels  
-- Use data-driven approaches to prioritize environmental investments  
+- Use datа-driven approaches to prioritize environmental investments  
 
 ## Conclusion
 

@@ -33,7 +33,25 @@ The dataset contains air quality measurements with the following features:
 - Python  
 - Pandas  
 - Matplotlib  
-- Seaborn  
+- Seaborn 
+- Tableau
+
+## Interactive Dashboard
+
+The project also includes an interactive Tableau dashboard for exploring:
+
+- Global AQI distribution
+- Pollution levels by country
+- Pollution by pollutant type
+- Geographic pollution patterns
+
+### Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
+### Interactive Version
+
+[View Tableau Dashboard](https://public.tableau.com/app/profile/ivan.ihumentsev/viz/AirpollutionDashboard/Dashboard1?publish=yes)
 
 ## Key Insights
 
@@ -49,7 +67,7 @@ The dataset contains air quality measurements with the following features:
 - Implement targeted interventions in cities with extreme AQI values  
 - Monitor multiple pollutants together due to their correlation  
 - Develop early warning systems in regions with rising pollution levels  
-- Use datа-driven approaches to prioritize environmental investments  
+- Use data-driven approaches to prioritize environmental investments  
 
 ## Conclusion
 
